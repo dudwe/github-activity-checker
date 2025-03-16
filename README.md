@@ -2,6 +2,8 @@
 
 A command-line tool to check the activity of a GitHub user by retrieving their activity data.
 
+Done to learn golang from: https://roadmap.sh/projects/github-user-activity
+
 ## Prerequisites
 
 - Go 1.23.7+ installed on your machine.
